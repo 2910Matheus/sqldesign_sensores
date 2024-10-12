@@ -1,11 +1,3 @@
-# FIAP - Faculdade de Informática e Administração Paulista
-
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=30% height=30%</a>
-</p>
-
-<br>
-
 # FarmTech Solutions - Modelo de Banco de Dados para Agricultura Digital
 
 ## Grupo 8
@@ -130,17 +122,11 @@ Este modelo de banco de dados foi projetado para otimizar o uso de recursos em u
 ---
 
 ## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+  
+* 0.2.0 - 12/10/2024*
+     
+* 0.1.0 - 09/10/2024*
+    
 
 ## 📋 Licença
 
