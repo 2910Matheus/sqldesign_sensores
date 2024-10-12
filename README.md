@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%</a>
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=30% height=30%</a>
 </p>
 
 <br>
@@ -128,8 +128,6 @@ Este modelo de banco de dados foi projetado para otimizar o uso de recursos em u
 - BR Modelo WEB para modelagem do MER. [Protótipo]
 - GitHub para versionamento.
 ---
-*
-
 
 ## 🗃 Histórico de lançamentos
 
