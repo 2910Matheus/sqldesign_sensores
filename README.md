@@ -22,7 +22,9 @@
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+- <b>Prototipo</b>: aqui estão todos os documentos do projeto LEGADO, foram feitos em outras plataformas mas descontinuados para atender o padrão da atividade. Arquivo foi utilizado como guia e aprendizado.
+
+- <b>document</b>: Aqui estão todos os documentos do projeto que as atividades que foi solicitado!
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
@@ -92,12 +94,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ### 3. Imagem do MER
 
-![image](https://github.com/user-attachments/assets/a7ff8ab9-c10e-44cd-8b09-96d9b826d42c)
+![MERsql](https://github.com/user-attachments/assets/3d0bea16-76ed-4cb1-86d8-dc05ec4eed7f)
+
 
 
 ### 4. Imagem do DER
 
-![image](https://github.com/user-attachments/assets/4d5c395d-bc51-44a8-a420-34186d4667de)
+![DERsql](https://github.com/user-attachments/assets/00f6cab9-a2ad-4dc7-9a82-515c7f58ff8a)
 
 
 ### 5. Considerações Finais
