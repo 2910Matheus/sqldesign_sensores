@@ -1,14 +1,52 @@
-# sqldesign_sensores
+# FIAP - Faculdade ade Informática e Administração Paulista
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
 
 # FarmTech Solutions - Modelo de Banco de Dados para Agricultura Digital
 
-## Descrição Geral
+## Grupo 8
 
-Este projeto faz parte da iniciativa da FarmTech Solutions para desenvolver um sistema de banco de dados para uma fazenda inteligente. O sistema coleta dados em tempo real de sensores instalados na plantação, permitindo otimizar o uso de água e nutrientes, além de prever necessidades futuras com base em dados históricos.
+## 👨‍🎓 Integrantes: 
+- <a href="www.linkedin.com/in/matheus-maia-655bb1250">Matheus Augusto Rodrigues Maia</a>
+- <a href="www.linkedin.com/in/johnatanloriano">Johnatan Sousa Macedo Loriano</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
 
-## Estrutura do Banco de Dados
 
-### 1. Entidades e Atributos
+## 👩‍🏫 Professores:
+### Tutor(a) 
+- <a href="www.linkedin.com/in/lucas-gomes-moreira-15a8452a">Lucas Gomes Moreira</a>
+
+
+## 📜 Descrição
+
+*Este projeto faz parte da iniciativa da FarmTech Solutions para desenvolver um sistema de banco de dados para uma fazenda inteligente. O sistema coleta dados em tempo real de sensores instalados na plantação, permitindo otimizar o uso de água e nutrientes, além de prever necessidades futuras com base em dados históricos.*
+
+
+## 📁 Estrutura de pastas
+
+Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
+
+- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
+
+- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
+
+- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
+
+- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+
+- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
+
+- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
+
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+## 🔧 Estrutura do Banco de Dados
+
+*### 1. Entidades e Atributos
 
 #### Sensor
 - `id_sensor`: INT (Chave Primária)
@@ -85,9 +123,27 @@ Este projeto faz parte da iniciativa da FarmTech Solutions para desenvolver um s
 Este modelo de banco de dados foi projetado para otimizar o uso de recursos em uma fazenda digital, melhorando a eficiência através de dados históricos e previsões inteligentes de necessidades futuras.
 
 ## Tecnologias Utilizadas
-- SQLDesigner para modelagem do DER.
+- Oracle SQL Developer Data Model para modelagem do DER e MER.
+- SQLDesigner para modelagem do DER. [Protótipo]
+- BR Modelo WEB para modelagem do MER. [Protótipo]
 - GitHub para versionamento.
-- MySQL para implementação do banco de dados relacional.
-
 ---
+*
 
+
+## 🗃 Histórico de lançamentos
+
+* 0.5.0 - XX/XX/2024
+    * 
+* 0.4.0 - XX/XX/2024
+    * 
+* 0.3.0 - XX/XX/2024
+    * 
+* 0.2.0 - XX/XX/2024
+    * 
+* 0.1.0 - XX/XX/2024
+    *
+
+## 📋 Licença
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
