@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="formatosql" id="4557F5C1-DA0A-ED65-3DB9-658A97543AB6" version="3.5">
-<createdBy>Matheus</createdBy>
-<createdTime>2024-10-12 20:10:21 UTC</createdTime>
-<ownerDesignName>formatosql</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>4557F5C1-DA0A-ED65-3DB9-658A97543AB6</designId>
-</OSDM_Design>
